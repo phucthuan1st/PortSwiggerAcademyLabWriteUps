@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "b4826db97e2055ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c26cbeb71bf33f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cbd013a0cb51159",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ac3ec3f890a3a97c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f245ba2f691f7260",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d5bfa40a2bbe830",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a2c11d65c3a3c1bf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "78f973f1bd89594b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "baac140c82dee744",
+    "type": "split",
+    "children": [
+      {
+        "id": "1021e7d97c48bc86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef394074708089f4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "05b3359237627bc4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bd3f55adcc4f8610",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "34baed79c1ca82af",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4cbd013a0cb51159",
+  "lastOpenFiles": [
+    "Lab - Blind OS command injection with output redirection/Pasted image 20240515000844.png",
+    "Lab - OS command injection, simple case/Pasted image 20240515000646.png",
+    "Lab - OS command injection, simple case/Pasted image 20240514235743.png",
+    "Lab - Blind OS command injection with output redirection/Lab - Blind OS command injection with output redirection.md",
+    "Lab - Blind OS command injection with output redirection/Pasted image 20240515003612.png",
+    "Lab - Blind OS command injection with output redirection/Pasted image 20240515003349.png",
+    "Lab - Blind OS command injection with output redirection/Pasted image 20240515002933.png",
+    "Lab - Blind OS command injection with output redirection/Pasted image 20240515002419.png",
+    "Lab - Blind OS command injection with output redirection/Pasted image 20240515002105.png",
+    "Lab - OS command injection, simple case/Lab - OS command injection, simple case.md",
+    "Lab - Blind OS command injection with output redirection",
+    "Lab - OS command injection, simple case/Pasted image 20240515000744.png",
+    "Lab - SQL injection attack, listing the database contents on Oracle/Lab - SQL injection attack, listing the database contents on Oracle.md",
+    "Untitled.md",
+    "Lab - OS command injection, simple case",
+    "Lab - SQL injection vulnerability in WHERE clause allowing retrieval of hidden data/Lab - SQL injection vulnerability in WHERE clause allowing retrieval of hidden data.md",
+    "Lab - SQL injection vulnerability allowing login bypass/Lab - SQL injection vulnerability allowing login bypass.md",
+    "Lab - Blind SQL injection with conditional errors/Lab - Blind SQL injection with conditional errors.md",
+    "Lab - SQL injection attack, listing the database contents on Oracle",
+    "Lab - SQL injection vulnerability allowing login bypass/Pasted image 20240514232723.png",
+    "Lab - SQL injection vulnerability allowing login bypass",
+    "README.md"
+  ]
+}
